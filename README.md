@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="45"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=FF9FC7&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+Making;Data+Engineer+%7C+Python+%7C+DSA;Hackathon+Finalist+%7C+Problem+Solver"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=FF9FC7&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+Making ;Data+Engineer+%7C+Python+%7C+DSA;Hackathon+Finalist+%7C+Problem+Solver"/>
 
 <br><br>
 
