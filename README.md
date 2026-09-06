@@ -58,37 +58,7 @@ Across 7+ hackathons, I've picked up hands-on experience in collaborative proble
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-04 Achievements
-
-<div align="center">
-
-Recognition Details
-
-
-
-🥇 1st Prize
-
-National-Level Hackathon, organized by GSSS, Mysore
-
-🥈 2nd Prize
-
-Aditya College Hackathon, Mysore
-
-🏆 7+ Hackathons
-
-Participated across national and college-level events
-
-🔐 Cybersecurity Track
-
-Contributed to a security-focused hackathon solution
-
-⛓️ Blockchain Track
-
-Contributed to a blockchain-based hackathon solution
-
-</div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
-
-05 Coding Profiles
+03 Coding Profiles
 
 <div align="center">
 
@@ -97,11 +67,11 @@ Contributed to a blockchain-based hackathon solution
 
 </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-06 GitHub Analytics
+04 GitHub Analytics
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prajyalypsamajhi26-tech&show_icons=true&hide_border=true&theme=vue-dark&bg_color=000000&title_color=FF9FC7&icon_color=87CEEB&text_color=E5E5E5" height="180"/> <img src="https://streak-stats.demolab.com?user=prajyalypsamajhi26-tech&hide_border=true&background=000000&ring=FF9FC7&fire=87CEEB&currStreakLabel=FF9FC7&stroke=87CEEB" height="180"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyalypsamajhi26-tech&layout=compact&hide_border=true&theme=vue-dark&bg_color=000000&title_color=FF9FC7&text_color=E5E5E5"/> </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-07 Contribution Snake
+05 Contribution Snake
 
 <div align="center"> <img src="https://raw.githubusercontent.com/prajyalypsamajhi26-tech/prajyalypsamajhi26-tech/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
@@ -109,7 +79,7 @@ Contributed to a blockchain-based hackathon solution
 
 </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-08 Current Focus
+06 Current Focus
 
 name: Prajyalypsa Majhi
 roles: [AI/ML Engineer, Data Engineer]
@@ -138,7 +108,7 @@ open_to:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-09 Connect
+07 Connect
 
 <div align="center">
 
