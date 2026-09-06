@@ -1,26 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=210&section=header&text=PRAJYALYPSA%20MAJHI&fontSize=40&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Data%20Engineer%20in%20the%20Making&descAlignY=58&descSize=17&descColor=94A3B8" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1200&color=64748B&center=true&vCenter=true&width=700&lines=Python+%7C+DSA+%7C+Machine+Learning;Aspiring+AI%2FML+%2B+Data+Engineer;Hackathon+Finalist+%7C+Problem+Solver;Building+Practical+AI+%26+Data+Systems" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E9A,25:8A2BE2,50:00D9FF,75:FFD700,100:FF2E9A&height=190&section=header&text=PRAJYALYPSA%20MAJHI&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=AI%2FML%20Engineer%20%C2%B7%20Data%20Engineer%20in%20the%20Making&descAlignY=62&descSize=16&descColor=F5F5F5" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%2FML_ENGINEER-0F172A?style=for-the-badge&labelColor=0F172A&color=1E293B"/>
-<img src="https://img.shields.io/badge/DATA_ENGINEER-1E293B?style=for-the-badge&labelColor=1E293B&color=334155"/>
-<img src="https://img.shields.io/badge/BANGALORE,_INDIA-334155?style=for-the-badge&labelColor=334155&color=475569"/>
+<img src="https://img.shields.io/badge/AI%2FML_ENGINEER-000000?style=for-the-badge&labelColor=000000&color=FF2E9A"/>
+<img src="https://img.shields.io/badge/DATA_ENGINEER-000000?style=for-the-badge&labelColor=000000&color=8A2BE2"/>
+<img src="https://img.shields.io/badge/BANGALORE,_INDIA-000000?style=for-the-badge&labelColor=000000&color=00D9FF"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/prajyalypsa-majhi"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=94A3B8&labelColor=0F172A"/></a>
-<a href="mailto:prajyalypsamajhi26@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=94A3B8&labelColor=0F172A"/></a>
-<a href="https://github.com/prajyalypsamajhi26-tech"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=94A3B8&labelColor=0F172A"/></a>
+<a href="https://www.linkedin.com/in/prajyalypsa-majhi"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF2E9A&labelColor=000000"/></a>
+<a href="mailto:prajyalypsamajhi26@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=000000"/></a>
+<a href="https://github.com/prajyalypsamajhi26-tech"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=000000"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=prajyalypsamajhi26-tech&label=PROFILE+VIEWS&style=for-the-badge&color=1E293B&labelColor=0F172A"/>
-<img src="https://img.shields.io/github/followers/prajyalypsamajhi26-tech?label=FOLLOWERS&style=for-the-badge&color=334155&labelColor=0F172A"/>
-<img src="https://img.shields.io/github/stars/prajyalypsamajhi26-tech?label=STARS&style=for-the-badge&color=475569&labelColor=0F172A"/>
+<img src="https://komarev.com/ghpvc/?username=prajyalypsamajhi26-tech&label=PROFILE+VIEWS&style=for-the-badge&color=FF2E9A&labelColor=000000"/>
+<img src="https://img.shields.io/github/followers/prajyalypsamajhi26-tech?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&labelColor=000000"/>
+<img src="https://img.shields.io/github/stars/prajyalypsamajhi26-tech?label=STARS&style=for-the-badge&color=00D9FF&labelColor=000000"/>
 
 </div>
 
@@ -46,57 +44,17 @@ Across **7+ hackathons**, I've picked up hands-on experience in collaborative pr
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-## `02` Tech Stack
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js&theme=dark"/>
-
-**AI / ML & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark"/>
-<br/>
-<sub><code>NumPy</code> <code>Pandas</code> <code>Scikit-learn</code> <code>Jupyter</code></sub>
-
-</td>
-<td valign="top" width="50%">
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,figma&theme=dark"/>
-
-**Tooling**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
-
-## `03` AI / ML Expertise
+## `02` My Favorite Tools & Technologies
 
 <div align="center">
 
-| Domain | Proficiency | Focus |
-|:--|:--:|:--|
-| **Python** | ●●●●○ | Programming, automation & ML development |
-| **Data Structures & Algorithms** | ●●●●○ | Problem solving with Python |
-| **Machine Learning** | ●●●○○ | Fundamentals, experimentation & model building |
-| **Data Science** | ●●●○○ | Data analysis, preprocessing & visualization |
-| **Pandas / NumPy / Scikit-learn** | ●●●○○ | Data manipulation & ML workflows |
-| **Generative AI** | ●●○○○ | Actively exploring modern AI systems |
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20favorite%20tools%20and%20technologies&align=center&lineCount=2&line1=python,Python,auto;c,C,auto;cplusplus,C%2B%2B,auto;javascript,JavaScript,auto;pytorch,PyTorch,auto;scikitlearn,Scikit-learn,auto;numpy,NumPy,auto;pandas,Pandas,auto&line2=matplotlib,Matplotlib,auto;jupyter,Jupyter,auto;git,Git,auto;github,GitHub,auto;visualstudiocode,VS%20Code,auto;html5,HTML,auto;css3,CSS,auto;figma,Figma,auto&bg=%23000000&border=%23FF2E9A&badge=%238A2BE2&titleColor=%2300D9FF&titleAlign=center"/>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-## `04` Featured Projects
+## `03` Featured Projects
 
 <details open>
 <summary><b>🩺 ECG</b></summary>
@@ -130,7 +88,7 @@ A practical build representing hands-on experimentation with technology-based pr
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-## `05` Experience
+## `04` Experience
 
 **Student Developer & Builder**
 <br/>
@@ -147,7 +105,7 @@ Focused on developing practical technical skills through coding, machine learnin
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-## `06` Achievements
+## `05` Achievements
 
 <div align="center">
 
@@ -163,53 +121,33 @@ Focused on developing practical technical skills through coding, machine learnin
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-## `07` Coding Profiles
+## `06` Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Prajyalypsa_majhi/"><img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=leetcode&logoColor=94A3B8&labelColor=0F172A"/></a>
-<a href="https://www.geeksforgeeks.org/user/prajyalypsy0mh/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F172A?style=for-the-badge&logo=geeksforgeeks&logoColor=94A3B8&labelColor=0F172A"/></a>
+<a href="https://leetcode.com/u/Prajyalypsa_majhi/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFD700&labelColor=000000"/></a>
+<a href="https://www.geeksforgeeks.org/user/prajyalypsy0mh/"><img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=00D9FF&labelColor=000000"/></a>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-## `08` GitHub Analytics
+## `07` GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prajyalypsamajhi26-tech&show_icons=true&hide_border=true&theme=default&bg_color=0D1117&title_color=94A3B8&icon_color=64748B&text_color=CBD5E1" height="180"/>
-<img src="https://streak-stats.demolab.com?user=prajyalypsamajhi26-tech&hide_border=true&background=0D1117&ring=64748B&fire=94A3B8&currStreakLabel=CBD5E1&stroke=334155" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prajyalypsamajhi26-tech&show_icons=true&hide_border=true&theme=radical&bg_color=000000&title_color=FFD700&icon_color=00D9FF&text_color=FFFFFF" height="180"/>
+<img src="https://streak-stats.demolab.com?user=prajyalypsamajhi26-tech&hide_border=true&background=000000&ring=FF2E9A&fire=FFD700&currStreakLabel=00D9FF&stroke=8A2BE2" height="180"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyalypsamajhi26-tech&layout=compact&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=CBD5E1"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyalypsamajhi26-tech&layout=compact&hide_border=true&theme=radical&bg_color=000000&title_color=FFD700&text_color=FFFFFF"/>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-## `09` GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prajyalypsamajhi26-tech&theme=onedark&no-frame=true&margin-w=8"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
-
-## `10` Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajyalypsamajhi26-tech&bg_color=0D1117&color=94A3B8&line=64748B&point=E2E8F0&area=true&hide_border=true" width="95%"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
-
-## `11` Contribution Snake
+## `08` Contribution Snake
 
 <div align="center">
 
@@ -221,7 +159,7 @@ Focused on developing practical technical skills through coding, machine learnin
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-## `12` Current Focus
+## `09` Current Focus
 
 ```yaml
 name: Prajyalypsa Majhi
@@ -251,13 +189,13 @@ open_to:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-## `13` Connect
+## `10` Connect
 
 <div align="center">
 
-<a href="mailto:prajyalypsamajhi26@gmail.com"><img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=94A3B8&labelColor=0F172A"/></a>
-<a href="https://www.linkedin.com/in/prajyalypsa-majhi"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=94A3B8&labelColor=0F172A"/></a>
-<a href="https://github.com/prajyalypsamajhi26-tech"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=94A3B8&labelColor=0F172A"/></a>
+<a href="mailto:prajyalypsamajhi26@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=000000"/></a>
+<a href="https://www.linkedin.com/in/prajyalypsa-majhi"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF2E9A&labelColor=000000"/></a>
+<a href="https://github.com/prajyalypsamajhi26-tech"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=000000"/></a>
 
 </div>
 
@@ -267,6 +205,6 @@ open_to:
 
 <sub>*"Build what matters, ship what works."*</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E9A,25:8A2BE2,50:00D9FF,75:FFD700,100:FF2E9A&height=110&section=footer" width="100%"/>
 
 </div>
