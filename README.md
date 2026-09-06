@@ -58,26 +58,6 @@ Across 7+ hackathons, I've picked up hands-on experience in collaborative proble
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-03 Experience
-
-Student Developer & Builder
-<br/>
-<sub>2025 — Present</sub>
-
-Focused on developing practical technical skills through coding, machine learning exploration, and hackathons.
-
-Building projects with Python and modern development tools
-
-Practicing Data Structures & Algorithms consistently
-
-Exploring Machine Learning, Data Science, and Generative AI
-
-Participated in 7+ hackathons, including work on cybersecurity and blockchain solutions
-
-<sub><code>Python</code> <code>DSA</code> <code>Machine Learning</code> <code>Git</code> <code>GitHub</code> <code>Data</code></sub>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
-
 04 Achievements
 
 <div align="center">
