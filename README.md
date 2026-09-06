@@ -269,10 +269,3 @@ open_to:
 <h3><i>Build what matters · Ship what works.</i></h3>
 
 </div>
-```
-
-**One important thing:** this README code assumes your Snake GitHub Action has already generated:
-
-`output/github-contribution-grid-snake-dark.svg`
-
-If that file hasn't been generated yet, the Snake section will appear blank until you run the Action.
