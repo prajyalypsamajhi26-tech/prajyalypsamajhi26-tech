@@ -207,6 +207,9 @@ AI/ML & Data Engineering Internships
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
+
 # 06. Current Focus
 
 ```yaml
