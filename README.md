@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="45"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=FF9FC7&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+Making;Data+Engineer+%7C+Python+%7C+DSA;Hackathon+Finalist+%7C+Problem+Solver" />
+<div align="center"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="45"/> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=FF9FC7&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+Making;Data+Engineer+%7C+Python+%7C+DSA;Hackathon+Finalist+%7C+Problem+Solver" />
 
 <br/><br/>
 
@@ -58,59 +58,7 @@ Across 7+ hackathons, I've picked up hands-on experience in collaborative proble
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-03 Featured Projects
-
-<details open> <summary><b>🩺 ECG</b></summary> <br/>
-
-A hands-on technical project applying software and AI-driven techniques to ECG-related data processing.
-
-
-
-
-
-Type
-
-Technical / AI Project
-
-Focus
-
-Software · Applied AI
-
-Status
-
-Active repository
-
-Repository
-
-github.com/prajyalypsamajhi26-tech/ECG-
-
-</details> <details> <summary><b>⚙️ NAG</b></summary> <br/>
-
-A practical build representing hands-on experimentation with technology-based problem solving.
-
-
-
-
-
-Type
-
-Technical Project
-
-Focus
-
-Software · Applied AI
-
-Status
-
-Active repository
-
-Repository
-
-github.com/prajyalypsamajhi26-tech/NAG
-
-</details> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
-
-04 Experience
+03 Experience
 
 Student Developer & Builder
 <br/>
@@ -130,7 +78,7 @@ Participated in 7+ hackathons, including work on cybersecurity and blockchain so
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-05 Achievements
+04 Achievements
 
 <div align="center">
 
@@ -160,7 +108,7 @@ Contributed to a blockchain-based hackathon solution
 
 </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-06 Coding Profiles
+05 Coding Profiles
 
 <div align="center">
 
@@ -169,11 +117,11 @@ Contributed to a blockchain-based hackathon solution
 
 </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-07 GitHub Analytics
+06 GitHub Analytics
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prajyalypsamajhi26-tech&show_icons=true&hide_border=true&theme=vue-dark&bg_color=000000&title_color=FF9FC7&icon_color=87CEEB&text_color=E5E5E5" height="180"/> <img src="https://streak-stats.demolab.com?user=prajyalypsamajhi26-tech&hide_border=true&background=000000&ring=FF9FC7&fire=87CEEB&currStreakLabel=FF9FC7&stroke=87CEEB" height="180"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyalypsamajhi26-tech&layout=compact&hide_border=true&theme=vue-dark&bg_color=000000&title_color=FF9FC7&text_color=E5E5E5"/> </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-08 Contribution Snake
+07 Contribution Snake
 
 <div align="center"> <img src="https://raw.githubusercontent.com/prajyalypsamajhi26-tech/prajyalypsamajhi26-tech/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
@@ -181,7 +129,7 @@ Contributed to a blockchain-based hackathon solution
 
 </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-09 Current Focus
+08 Current Focus
 
 name: Prajyalypsa Majhi
 roles: [AI/ML Engineer, Data Engineer]
@@ -210,7 +158,7 @@ open_to:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-10 Connect
+09 Connect
 
 <div align="center">
 
@@ -220,6 +168,6 @@ open_to:
 
 </div> <br/> <div align="center">
 
-<sub>"Build what matters, ship what works."</sub>
+<h3><i>Build what matters · Ship what works.</i></h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9FC7,50:87CEEB,100:FF9FC7&height=110&section=footer" width="100%"/> </div>
