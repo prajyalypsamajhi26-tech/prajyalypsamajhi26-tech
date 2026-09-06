@@ -12,9 +12,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=prajyalypsamajhi26-tech&label=PROFILE+VIEWS&style=for-the-badge&color=FF9FC7&labelColor=000000"/> <img src="https://img.shields.io/github/followers/prajyalypsamajhi26-tech?label=FOLLOWERS&style=for-the-badge&color=87CEEB&labelColor=000000"/> <img src="https://img.shields.io/github/stars/prajyalypsamajhi26-tech?label=STARS&style=for-the-badge&color=FF9FC7&labelColor=000000"/> </div> <br/> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
+<img src="https://komarev.com/ghpvc/?username=prajyalypsamajhi26-tech&label=PROFILE+VIEWS&style=for-the-badge&color=FF9FC7&labelColor=000000"/> <img  src="https://img.shields.io/github/stars/prajyalypsamajhi26-tech?label=STARS&style=for-the-badge&color=FF9FC7&labelColor=000000"/> </div> <br/> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-01 About Me
+01. About Me
 
 I'm Prajyalypsa Majhi, an aspiring AI/ML Engineer and Data Engineer building strong foundations across intelligent systems, applied data science, and software engineering.
 
@@ -24,7 +24,7 @@ Across 7+ hackathons, I've picked up hands-on experience in collaborative proble
 
 <table align="center"> <tr> <td align="center" width="200"><b>🎯 Currently</b><br/>Deepening ML & Data fundamentals</td> <td align="center" width="200"><b>🧭 Exploring</b><br/>Generative AI, Data Engineering</td> <td align="center" width="200"><b>🤝 Open to</b><br/>AI/ML & Data Eng. internships</td> </tr> </table> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-02 My Favorite Tools & Technologies
+02. My Favorite Tools & Technologies
 
 <table align="center">
 <tr>
@@ -58,7 +58,7 @@ Across 7+ hackathons, I've picked up hands-on experience in collaborative proble
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-03 Coding Profiles
+03. Coding Profiles
 
 <div align="center">
 
@@ -67,11 +67,11 @@ Across 7+ hackathons, I've picked up hands-on experience in collaborative proble
 
 </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-04 GitHub Analytics
+04. GitHub Analytics
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prajyalypsamajhi26-tech&show_icons=true&hide_border=true&theme=vue-dark&bg_color=000000&title_color=FF9FC7&icon_color=87CEEB&text_color=E5E5E5" height="180"/> <img src="https://streak-stats.demolab.com?user=prajyalypsamajhi26-tech&hide_border=true&background=000000&ring=FF9FC7&fire=87CEEB&currStreakLabel=FF9FC7&stroke=87CEEB" height="180"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyalypsamajhi26-tech&layout=compact&hide_border=true&theme=vue-dark&bg_color=000000&title_color=FF9FC7&text_color=E5E5E5"/> </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-05 Contribution Snake
+05. Contribution Snake
 
 <div align="center"> <img src="https://raw.githubusercontent.com/prajyalypsamajhi26-tech/prajyalypsamajhi26-tech/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
@@ -79,7 +79,7 @@ Across 7+ hackathons, I've picked up hands-on experience in collaborative proble
 
 </div> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-06 Current Focus
+06. Current Focus
 
 name: Prajyalypsa Majhi
 roles: [AI/ML Engineer, Data Engineer]
@@ -108,7 +108,7 @@ open_to:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-07 Connect
+07. Connect
 
 <div align="center">
 
