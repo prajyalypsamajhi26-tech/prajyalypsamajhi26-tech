@@ -1,209 +1,210 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Prajyalypsa Majhi"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:1A1A1A,100:0D0D0D&height=190&section=header&text=PRAJYALYPSA%20MAJHI&fontSize=38&fontColor=D4AF37&fontAlignY=40&desc=AI%2FML%20Engineer%20%C2%B7%20Data%20Engineer%20in%20the%20Making&descAlignY=62&descSize=16&descColor=E5E5E5" width="100%"/>
 
-<br><br>
+<br/>
 
-<img src="https://img.shields.io/badge/AI%2FML%20ENGINEER-8B7CFF?style=for-the-badge&labelColor=0D0B14"/>
-<img src="https://img.shields.io/badge/DATA%20ENGINEER-6C63FF?style=for-the-badge&labelColor=0D0B14"/>
-<img src="https://img.shields.io/badge/BANGALORE-4B9EFF?style=for-the-badge&labelColor=0D0B14"/>
+<img src="https://img.shields.io/badge/AI%2FML_ENGINEER-000000?style=for-the-badge&labelColor=000000&color=D4AF37"/>
+<img src="https://img.shields.io/badge/DATA_ENGINEER-000000?style=for-the-badge&labelColor=000000&color=D4AF37"/>
+<img src="https://img.shields.io/badge/BANGALORE,_INDIA-000000?style=for-the-badge&labelColor=000000&color=D4AF37"/>
 
-<br><br>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/prajyalypsa-majhi">
-<img src="https://img.shields.io/badge/LinkedIn-Prajyalypsa%20Majhi-0D0B14?style=for-the-badge&logo=linkedin&logoColor=8B7CFF"/>
-</a>
+<a href="https://www.linkedin.com/in/prajyalypsa-majhi"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=000000"/></a>
+<a href="mailto:prajyalypsamajhi26@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=000000"/></a>
+<a href="https://github.com/prajyalypsamajhi26-tech"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000"/></a>
 
-<a href="mailto:prajyalypsamajhi26@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-0D0B14?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
+<br/><br/>
 
-<a href="https://github.com/prajyalypsamajhi26-tech">
-<img src="https://img.shields.io/badge/GitHub-Profile-0D0B14?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=prajyalypsamajhi26-tech&label=PROFILE%20VIEWS&color=8B7CFF&style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/prajyalypsamajhi26-tech?label=FOLLOWERS&style=flat-square&color=6C63FF"/>
+<img src="https://komarev.com/ghpvc/?username=prajyalypsamajhi26-tech&label=PROFILE+VIEWS&style=for-the-badge&color=D4AF37&labelColor=000000"/>
+<img src="https://img.shields.io/github/followers/prajyalypsamajhi26-tech?label=FOLLOWERS&style=for-the-badge&color=D4AF37&labelColor=000000"/>
+<img src="https://img.shields.io/github/stars/prajyalypsamajhi26-tech?label=STARS&style=for-the-badge&color=D4AF37&labelColor=000000"/>
 
 </div>
 
-<br>
+<br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-<table>
+## `01` About Me
+
+I'm **Prajyalypsa Majhi**, an aspiring **AI/ML Engineer and Data Engineer** building strong foundations across intelligent systems, applied data science, and software engineering.
+
+I solve problems through **Python, Data Structures & Algorithms, and Machine Learning**, and I turn what I learn into practical, working projects rather than tutorials left half-finished.
+
+Across **7+ hackathons**, I've picked up hands-on experience in collaborative problem-solving — including work touching **cybersecurity and blockchain**.
+
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="200"><b>🎯 Currently</b><br/>Deepening ML & Data fundamentals</td>
+<td align="center" width="200"><b>🧭 Exploring</b><br/>Generative AI, Data Engineering</td>
+<td align="center" width="200"><b>🤝 Open to</b><br/>AI/ML & Data Eng. internships</td>
+</tr>
+</table>
 
-# ◈ About Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-Hi, I'm **Prajyalypsa Majhi**.
+## `02` My Favorite Tools & Technologies
 
-I'm an aspiring **AI/ML Engineer & Data Engineer** based in Bangalore.
+<div align="center">
 
-I enjoy building intelligent systems, working with data, solving problems and turning ideas into practical technology.
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20favorite%20tools%20and%20technologies&align=center&lineCount=2&line1=python,Python,auto;c,C,auto;cplusplus,C%2B%2B,auto;javascript,JavaScript,auto;pytorch,PyTorch,auto;scikitlearn,Scikit-learn,auto;numpy,NumPy,auto;pandas,Pandas,auto&line2=matplotlib,Matplotlib,auto;jupyter,Jupyter,auto;git,Git,auto;github,GitHub,auto;visualstudiocode,VS%20Code,auto;html5,HTML,auto;css3,CSS,auto;figma,Figma,auto&bg=%23000000&border=%23D4AF37&badge=%23D4AF37&titleColor=%23D4AF37&titleAlign=center"/>
 
-### What I Work With
+</div>
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Data Engineering
-- Generative AI
-- Software Development
-- Problem Solving
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-I learn primarily through **building projects, solving DSA problems and participating in hackathons.**
+## `03` Featured Projects
 
-</td>
+<details open>
+<summary><b>🩺 ECG</b></summary>
+<br/>
 
-<td width="50%" valign="top">
+A hands-on technical project applying software and AI-driven techniques to ECG-related data processing.
 
-# ◈ Career Direction
+| | |
+|--|--|
+| **Type** | Technical / AI Project |
+| **Focus** | Software · Applied AI |
+| **Status** | Active repository |
+| **Repository** | [github.com/prajyalypsamajhi26-tech/ECG-](https://github.com/prajyalypsamajhi26-tech/ECG-) |
 
-target_roles:
-  - AI/ML Engineer
-  - Data Engineer
+</details>
 
-current_focus:
-  - Python
-  - C
-  - C++
-  - Data Structures & Algorithms
-  - Machine Learning
-  - Deep Learning
-  - Data Engineering
+<details>
+<summary><b>⚙️ NAG</b></summary>
+<br/>
+
+A practical build representing hands-on experimentation with technology-based problem solving.
+
+| | |
+|--|--|
+| **Type** | Technical Project |
+| **Focus** | Software · Applied AI |
+| **Status** | Active repository |
+| **Repository** | [github.com/prajyalypsamajhi26-tech/NAG](https://github.com/prajyalypsamajhi26-tech/NAG) |
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
+
+## `04` Experience
+
+**Student Developer & Builder**
+<br/>
+<sub>2025 — Present</sub>
+
+Focused on developing practical technical skills through coding, machine learning exploration, and hackathons.
+
+- Building projects with **Python** and modern development tools
+- Practicing **Data Structures & Algorithms** consistently
+- Exploring **Machine Learning**, **Data Science**, and **Generative AI**
+- Participated in **7+ hackathons**, including work on **cybersecurity** and **blockchain** solutions
+
+<sub><code>Python</code> <code>DSA</code> <code>Machine Learning</code> <code>Git</code> <code>GitHub</code> <code>Data</code></sub>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
+
+## `05` Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:--|:--|
+| 🥇 **1st Prize** | National-Level Hackathon, organized by GSSS, Mysore |
+| 🥈 **2nd Prize** | Aditya College Hackathon, Mysore |
+| 🏆 **7+ Hackathons** | Participated across national and college-level events |
+| 🔐 **Cybersecurity Track** | Contributed to a security-focused hackathon solution |
+| ⛓️ **Blockchain Track** | Contributed to a blockchain-based hackathon solution |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
+
+## `06` Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Prajyalypsa_majhi/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=D4AF37&labelColor=000000"/></a>
+<a href="https://www.geeksforgeeks.org/user/prajyalypsy0mh/"><img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=D4AF37&labelColor=000000"/></a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
+
+## `07` GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prajyalypsamajhi26-tech&show_icons=true&hide_border=true&theme=vue-dark&bg_color=000000&title_color=D4AF37&icon_color=D4AF37&text_color=E5E5E5" height="180"/>
+<img src="https://streak-stats.demolab.com?user=prajyalypsamajhi26-tech&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&stroke=D4AF37" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyalypsamajhi26-tech&layout=compact&hide_border=true&theme=vue-dark&bg_color=000000&title_color=D4AF37&text_color=E5E5E5"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
+
+## `08` Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/prajyalypsamajhi26-tech/prajyalypsamajhi26-tech/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+<sub>_Requires the `platane/snk` GitHub Action set up on your `prajyalypsamajhi26-tech/prajyalypsamajhi26-tech` profile repo._</sub>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
+
+## `09` Current Focus
+
+```yaml
+name: Prajyalypsa Majhi
+roles: [AI/ML Engineer, Data Engineer]
+
+learning:
+  - Python, Data Structures & Algorithms
+  - NumPy, Pandas, Scikit-learn
+  - Machine Learning, Deep Learning
+  - Generative AI, Data Engineering fundamentals
+
+building:
+  - Machine learning & AI-powered projects
+  - Data-driven applications
+  - Hackathon solutions
+
+exploring:
   - Generative AI
+  - Cybersecurity & Blockchain
+  - Software engineering best practices
 
-goal:
-  - Build real-world intelligent systems
-  - Become industry-ready
-  - Solve meaningful problems
-  - Work on impactful AI/ML products '''
+open_to:
+  - AI/ML Internships
+  - Data Engineering Internships
+  - Hackathons & Open Source Collaboration
+```
 
-</td> </tr> </table>
-⚡ TECH STACK
-<table> <tr> <td width="50%" valign="top">
-Programming
-<p> <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js"/> </p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-Python
-C
-C++
-HTML
-CSS
-JavaScript
+## `10` Connect
 
-</td> <td width="50%" valign="top">
-AI / ML & Data Science
-<p> <img src="https://skillicons.dev/icons?i=pytorch,sklearn,jupyter"/> </p>
-
-NumPy
-Pandas
-Matplotlib
-Scikit-learn
-PyTorch
-Jupyter Notebook
-Google Colab
-
-</td> </tr> <tr> <td width="50%" valign="top">
-Data Engineering & Databases
-<p> <img src="https://skillicons.dev/icons?i=mysql"/> </p>
-
-SQL
-MySQL
-Pandas
-NumPy
-
-</td> <td width="50%" valign="top">
-Tools & Design
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/> </p>
-
-Git
-GitHub
-VS Code
-Figma
-Kiro
-Antigravity
-
-</td> </tr> </table>
-🧠 AI / ML EXPERTISE
-<table> <tr> <th>AREA</th> <th>TECHNOLOGIES</th> </tr> <tr> <td><b>Machine Learning</b></td> <td>Scikit-learn · Regression · Classification · Model Evaluation</td> </tr> <tr> <td><b>Data Science</b></td> <td>NumPy · Pandas · Matplotlib · Data Analysis</td> </tr> <tr> <td><b>Deep Learning</b></td> <td>PyTorch · Neural Networks</td> </tr> <tr> <td><b>Generative AI</b></td> <td>LLMs · GenAI Exploration</td> </tr> <tr> <td><b>Programming</b></td> <td>Python · C · C++</td> </tr> <tr> <td><b>Data</b></td> <td>SQL · MySQL · Data Processing</td> </tr> </table>
-🚀 FEATURED PROJECTS
-<table> <tr> <td width="50%" valign="top">
-🫀 ECG
-
-A project exploring ECG-related analysis and machine-learning applications.
-
-Technologies
-
-Python
-Machine Learning
-Data Science
-
-<br> <a href="https://github.com/prajyalypsamajhi26-tech/ECG-"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-8B7CFF?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%" valign="top">
-🧩 NAG
-
-A project exploring practical software development and intelligent-system applications.
-
-Technologies
-
-Python
-AI / ML
-Software Development
-
-<br> <a href="https://github.com/prajyalypsamajhi26-tech/NAG"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> </table>
-🏆 ACHIEVEMENTS
-<table> <tr> <td width="50%" align="center">
-🥇 1st Prize
-GSSS National Level Hackathon
-
-Cybersecurity / Blockchain
-
-</td> <td width="50%" align="center">
-🥈 2nd Prize
-Aditya Hackathon — Mysore
-
-Hackathon Achievement
-
-</td> </tr> </table> <br> <div align="center">
-⚡ 7+ HACKATHONS
-
-Participated in 7+ hackathons across
-
-AI · Machine Learning · Cybersecurity · Blockchain · Software Development
-
-</div>
-💻 CODING PROFILES
-<div align="center"> <a href="https://leetcode.com/u/Prajyalypsa_majhi/"> <img src="https://img.shields.io/badge/LeetCode-Prajyalypsa__majhi-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> </a>
-
-  
-
-<a href="https://www.geeksforgeeks.org/user/prajyalypsy0mh/"> <img src="https://img.shields.io/badge/GeeksforGeeks-prajyalypsy0mh-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a> </div>
-📊 GITHUB ANALYTICS
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prajyalypsamajhi26-tech&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=9B8CFF&icon_color=8A7CFF&text_color=E6E1F5&rank_icon=github" width="49%" />
-
-<img src="https://streak-stats.demolab.com?user=prajyalypsamajhi26-tech&hide_border=true&background=0D0B14&ring=8A7CFF&fire=9B8CFF&currStreakLabel=E6E1F5&sideLabels=E6E1F5&dates=AAA4BD" width="49%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyalypsamajhi26-tech&layout=compact&hide_border=true&bg_color=0D0B14&title_color=9B8CFF&text_color=E6E1F5" width="45%" />
+<a href="mailto:prajyalypsamajhi26@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=000000"/></a>
+<a href="https://www.linkedin.com/in/prajyalypsa-majhi"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=000000"/></a>
+<a href="https://github.com/prajyalypsamajhi26-tech"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000"/></a>
 
 </div>
-📈 CONTRIBUTION ACTIVITY
+
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajyalypsamajhi26-tech&bg_color=0D0B14&color=9B8CFF&line=7C6CFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<sub>*"Build what matters, ship what works."*</sub>
 
-</div>
-🐍 CONTRIBUTION SNAKE
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/prajyalypsamajhi26-tech/prajyalypsamajhi26-tech/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A1A,100:0D0D0D&height=110&section=footer" width="100%"/>
 
 </div>
