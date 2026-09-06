@@ -24,40 +24,38 @@
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=87CEEB"/>
 </a>
 
+<br><br>
+
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
 # 01. About Me
 
-I'm **Prajyalypsa Majhi**, an aspiring **AI/ML Engineer and Data Engineer** building strong foundations in intelligent systems, data science, and software engineering.
+I'm **Prajyalypsa Majhi**, an aspiring **AI/ML Engineer and Data Engineer** building strong foundations across intelligent systems, applied data science, and software engineering.
 
-I work with **Python, Data Structures & Algorithms, Machine Learning, and data tools**, turning what I learn into practical projects rather than leaving it at tutorials.
+I solve problems through **Python, Data Structures & Algorithms, and Machine Learning**, and I turn what I learn into practical, working projects rather than tutorials left half-finished.
 
-I've participated in **7+ hackathons**, gaining hands-on experience in collaborative problem-solving, including projects involving **cybersecurity and blockchain**.
+Across **7+ hackathons**, I've gained hands-on experience in collaborative problem-solving, including work involving **cybersecurity and blockchain**.
 
 <table align="center">
 <tr>
-<td align="center" width="200">
 
+<td align="center" width="200">
 <b>Currently</b><br>
 Deepening ML & Data fundamentals
-
 </td>
 
 <td align="center" width="200">
-
 <b>Exploring</b><br>
 Generative AI & Data Engineering
-
 </td>
 
 <td align="center" width="200">
-
 <b>Open To</b><br>
 AI/ML & Data Engineering Internships
-
 </td>
+
 </tr>
 </table>
 
@@ -93,22 +91,22 @@ AI/ML & Data Engineering Internships
 
 <tr>
 
-<td align="center">
+<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/><br>
 <b>PyTorch</b>
 </td>
 
-<td align="center">
+<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br>
 <b>Scikit-learn</b>
 </td>
 
-<td align="center">
+<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br>
 <b>NumPy</b>
 </td>
 
-<td align="center">
+<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br>
 <b>Pandas</b>
 </td>
@@ -117,22 +115,22 @@ AI/ML & Data Engineering Internships
 
 <tr>
 
-<td align="center">
+<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/><br>
 <b>Matplotlib</b>
 </td>
 
-<td align="center">
+<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/><br>
 <b>Jupyter</b>
 </td>
 
-<td align="center">
+<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br>
 <b>Git</b>
 </td>
 
-<td align="center">
+<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/><br>
 <b>GitHub</b>
 </td>
@@ -141,22 +139,22 @@ AI/ML & Data Engineering Internships
 
 <tr>
 
-<td align="center">
+<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/><br>
 <b>VS Code</b>
 </td>
 
-<td align="center">
+<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br>
 <b>HTML5</b>
 </td>
 
-<td align="center">
+<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br>
 <b>CSS3</b>
 </td>
 
-<td align="center">
+<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/><br>
 <b>Figma</b>
 </td>
@@ -191,7 +189,7 @@ AI/ML & Data Engineering Internships
 
 <img src="https://streak-stats.demolab.com?user=prajyalypsamajhi26-tech&hide_border=true&background=000000&ring=FF9FC7&fire=87CEEB&currStreakLabel=FF9FC7&stroke=87CEEB" height="180"/>
 
-<br>
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyalypsamajhi26-tech&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=FF9FC7&text_color=E5E5E5"/>
 
@@ -269,7 +267,5 @@ open_to:
 <br><br>
 
 <h3><i>Build what matters · Ship what works.</i></h3>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9FC7,50:87CEEB,100:FF9FC7&height=110&section=footer" width="100%"/>
 
 </div>
