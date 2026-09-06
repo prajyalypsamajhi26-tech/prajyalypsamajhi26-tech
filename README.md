@@ -181,23 +181,8 @@ AI/ML & Data Engineering Internships
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-# 04. GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prajyalypsamajhi26-tech&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=FF9FC7&icon_color=87CEEB&text_color=E5E5E5" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=prajyalypsamajhi26-tech&hide_border=true&background=000000&ring=FF9FC7&fire=87CEEB&currStreakLabel=FF9FC7&stroke=87CEEB" height="180"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyalypsamajhi26-tech&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=FF9FC7&text_color=E5E5E5"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
-
-# 05. Contribution Snake
+# 04. Contribution Snake
 
 <div align="center">
 
@@ -207,7 +192,7 @@ AI/ML & Data Engineering Internships
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-# 06. Current Focus
+# 05. Current Focus
 
 ```yaml
 name: Prajyalypsa Majhi
@@ -248,7 +233,7 @@ open_to:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
-# 07. Connect
+# 06. Connect
 
 <div align="center">
 
