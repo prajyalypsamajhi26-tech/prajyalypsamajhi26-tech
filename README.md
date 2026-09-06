@@ -12,7 +12,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=prajyalypsamajhi26-tech&label=PROFILE+VIEWS&style=for-the-badge&color=FF9FC7&labelColor=000000"/> <img  src="https://img.shields.io/github/stars/prajyalypsamajhi26-tech?label=STARS&style=for-the-badge&color=FF9FC7&labelColor=000000"/> </div> <br/> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
 01. About Me
 
@@ -22,7 +21,7 @@ I solve problems through Python, Data Structures & Algorithms, and Machine Learn
 
 Across 7+ hackathons, I've picked up hands-on experience in collaborative problem-solving — including work touching cybersecurity and blockchain.
 
-<table align="center"> <tr> <td align="center" width="200"><b>🎯 Currently</b><br/>Deepening ML & Data fundamentals</td> <td align="center" width="200"><b>🧭 Exploring</b><br/>Generative AI, Data Engineering</td> <td align="center" width="200"><b>🤝 Open to</b><br/>AI/ML & Data Eng. internships</td> </tr> </table> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
+<table align="center"> <tr> <td align="center" width="200"><b> Currently</b><br/>Deepening ML & Data fundamentals</td> <td align="center" width="200"><b> Exploring</b><br/>Generative AI, Data Engineering</td> <td align="center" width="200"><b> Open to</b><br/>AI/ML & Data Eng. internships</td> </tr> </table> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
 02. My Favorite Tools & Technologies
 
