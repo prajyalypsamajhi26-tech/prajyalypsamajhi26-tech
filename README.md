@@ -185,21 +185,15 @@ AI/ML & Data Engineering Internships
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prajyalypsamajhi26-tech&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=FF9FC7&icon_color=87CEEB&text_color=E5E5E5&count_private=true&include_all_commits=true" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=prajyalypsamajhi26-tech&hide_border=true&background=000000&ring=FF9FC7&fire=87CEEB&currStreakLabel=FF9FC7&stroke=87CEEB" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajyalypsamajhi26-tech&theme=github_dark" width="100%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyalypsamajhi26-tech&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=FF9FC7&text_color=E5E5E5&langs_count=8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajyalypsamajhi26-tech&theme=github_dark" width="49%"/>
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajyalypsamajhi26-tech&bg_color=000000&color=FF9FC7&line=87CEEB&point=FF9FC7&area=true&hide_border=true" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajyalypsamajhi26-tech&theme=github_dark" width="49%"/>
 
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2"/>
 
 # 05. Contribution Snake
 
