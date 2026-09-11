@@ -185,13 +185,21 @@ AI/ML & Data Engineering Internships
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prajyalypsamajhi26-tech&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=FF9FC7&icon_color=87CEEB&text_color=E5E5E5" height="180"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40"/> &nbsp; *numbers doing their thing* &nbsp; <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=prajyalypsamajhi26-tech&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=FF9FC7&icon_color=87CEEB&text_color=E5E5E5&count_private=true&include_all_commits=true" height="180"/>
 
 <img src="https://streak-stats.demolab.com?user=prajyalypsamajhi26-tech&hide_border=true&background=000000&ring=FF9FC7&fire=87CEEB&currStreakLabel=FF9FC7&stroke=87CEEB" height="180"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyalypsamajhi26-tech&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=FF9FC7&text_color=E5E5E5"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyalypsamajhi26-tech&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=FF9FC7&text_color=E5E5E5&langs_count=8"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajyalypsamajhi26-tech&bg_color=000000&color=FF9FC7&line=87CEEB&point=FF9FC7&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -201,7 +209,15 @@ AI/ML & Data Engineering Internships
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/prajyalypsamajhi26-tech/prajyalypsamajhi26-tech/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="40"/> &nbsp; *watch my contributions slither* 🐍 &nbsp; <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="40"/>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajyalypsamajhi26-tech/prajyalypsamajhi26-tech/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajyalypsamajhi26-tech/prajyalypsamajhi26-tech/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/prajyalypsamajhi26-tech/prajyalypsamajhi26-tech/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
@@ -265,6 +281,8 @@ open_to:
 </a>
 
 <br><br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/>
 
 <h3><i>Build what matters · Ship what works.</i></h3>
 
