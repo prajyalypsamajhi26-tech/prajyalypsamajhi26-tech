@@ -206,9 +206,9 @@ AI/ML & Data Engineering Internships
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajyalypsamajhi26-tech/prajyalypsamajhi26-tech/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajyalypsamajhi26-tech/prajyalypsamajhi26-tech/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/prajyalypsamajhi26-tech/prajyalypsamajhi26-tech/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajyalypsamajhi26-tech/prajyalypsamajhi26-tech/gh-pages/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajyalypsamajhi26-tech/prajyalypsamajhi26-tech/gh-pages/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/prajyalypsamajhi26-tech/prajyalypsamajhi26-tech/gh-pages/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
